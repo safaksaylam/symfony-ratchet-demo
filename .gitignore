@@ -5,3 +5,7 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> phpstorm ###
+/.idea/
+###< phpstorm ###
